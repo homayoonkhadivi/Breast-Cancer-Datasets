@@ -1,4 +1,5 @@
-# Breast-Cancer-Datasets
+# Breast-Cancer-Datasets && Breast Cancer Prediction Notebook
+
 Breast Cancer Datasets, Breast Cancer Prediction with SVM, PCA, Tuning
 I want to show how a Data Scientist would address a technical problem by analyzing the breast cancer datasets from three excel files such as (Death, Recovered, Under Treatment) through conducting some technical activities such as:
 
